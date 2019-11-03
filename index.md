@@ -15,7 +15,7 @@
   In light of the advances in artificial intelligence, this initiative investigates how we might design technologies for social justice. This work is informed by my professional experience as a software engineer in Silicon Valley. I have led workshops and presentations on technology design and social justice at the International Communication Association, the Graduate School of Design, the Kennedy School of Government, and the Edmond J. Safra Center for Ethics. 
   
   <h3>Digital Labor and the Future of Work</h3>
-  This initiative inquires into digital labor and the changing nature of work in the platform economy. This new project builds on my past work with the UN in the areas of labor, decent work conditions, and human rights. As a Safra Center Pedagogy Fellow, I contributed to developing new undergraduate courses on the future of work at the College.
+  This initiative inquires into digital labor and the changing nature of work in the platform economy. This new project builds on my past work with the UN in the areas of labor, decent work conditions, and human rights. I contributed to developing new undergraduate courses on the future of work at the College.
   
   </p>
   </body>
