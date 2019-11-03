@@ -12,7 +12,7 @@
   
   <h3>Technology, Design, and Social Justice</h3>
   
-  In this initiative, I ask how do we design technologies for social justice in light of the advances in artificial intelligence. This work is informed by my professional experience as a software engineer in Silicon Valley. I have led workshops and presentations on technology design and social justice at the International Communication Association, the Graduate School of Design, Harvard Kennedy School, and the Edmond J. Safra Center for Ethics. 
+  In this initiative, I ask how do we design technologies for social justice in light of the advances in artificial intelligence. This work is informed by my professional experience as a software engineer in Silicon Valley. I have led workshops and presentations on technology design and social justice at the International Communication Association, the Graduate School of Design, the Kennedy School of Government, and the Edmond J. Safra Center for Ethics. 
   
   <h3>Digital Labor and the Future of Work</h3>
   This initiative inquires into the changing nature of work in the platform economy. This new project connects with my past work with the UN in the areas of decent work, child labor/trafficking, and human rights.
