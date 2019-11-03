@@ -19,9 +19,5 @@
   </p>
   </body>
   <h2>Completed Projects</h2>
-  <h3>Participatory law-making project in a developing country
-  <h3>Youth and online (mis)information behavior framework</h3>
-  <h3>L’ancienne poésie française</h3>
-  <h3>Applied cryptography and computer security</h3>
-   
+
 </html>
