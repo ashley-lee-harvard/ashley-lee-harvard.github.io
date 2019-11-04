@@ -1,7 +1,7 @@
 <html>
+    <img src="logo2.png"/>
+
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
   <h2>About Me</h2>
   <p>I am a media scholar whose work examines technology and social inequality in comparative perspective. I have ongoing projects in the areas of: 1) new media and youth movements across democratic and non-democratic countries; 2) technology, design, and social justice; 3) digital labor and the future of work .</p>
 
