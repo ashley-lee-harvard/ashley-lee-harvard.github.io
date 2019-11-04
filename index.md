@@ -3,7 +3,7 @@
 
 <body>
   <h2>About Me</h2>
-  <p>I am a media scholar whose work examines technology and social inequality in comparative perspective. I have ongoing projects in the areas of: 1) new media and youth movements across democratic and non-democratic countries; 2) technology, design, and social justice; 3) digital labor and the future of work .</p>
+  <p>I am a media scholar whose work examines technology and social inequality in comparative perspective. I have ongoing projects in the areas of: 1) new media and youth movements across democratic and non-democratic countries; 2) technology, design, and social justice; 3) digital labor and the future of work.</p>
 
 <h2>Ongoing Projects</h2>
 <p><h3>New Media and Youth Movements in Comparative Perspective</h3>
