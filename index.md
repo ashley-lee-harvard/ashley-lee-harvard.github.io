@@ -7,7 +7,7 @@
 
 <h2>Ongoing Projects</h2>
 <p><h3>New Media and Youth Movements in Comparative Perspective</h3>
-  I am currently leading a qualitative study of 120 youth activists across democratic and non-democratic countries. I examine how young activists leverage social media to participate in movements while navigating surveillance, censorship, and other forms of repression in the digital age. This work is supported by the Social Sciences and Humanities Research Council (SSHRC), the Weatherhead Center for International Affairs, the Spencer Foundation, and several other grants and scholarships. This work has been presented at the International Communication Association, the American Political Science Association, the American Sociological Association, and the Association of Internet Research. I have created and taught a graduate seminar on this topic.
+  I am currently leading a qualitative study of 120 youth activists across democratic and non-democratic countries. I examine how young activists leverage social media to participate in movements while navigating surveillance, censorship, and other forms of repression in the digital age. This work is financially supported by the Social Sciences and Humanities Research Council (SSHRC), the Weatherhead Center for International Affairs, the Spencer Foundation, and several other grants and scholarships. This work has been presented at the International Communication Association, the American Political Science Association, the American Sociological Association, and the Association of Internet Research. I have created and taught a graduate seminar on this topic.
   
   <h3>Technology, Design, and Social Justice</h3>
   
