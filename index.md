@@ -1,5 +1,5 @@
 <html>
-    <img src="logo2.png"/>
+    <img src="logo3.png"/>
 
 <body>
   <h2>About Me</h2>
