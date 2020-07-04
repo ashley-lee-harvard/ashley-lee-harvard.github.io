@@ -3,7 +3,7 @@
 
 <body>
   <h2>About Me</h2>
-  <p>My research broadly examines technology and politics in comparative perspective. I have ongoing projects in the areas of: 1) new media and social movements across democratic and non-democratic contexts; 2) digital labor and the future of work; 3) technology, design, and social justice. In 2020-2021, I will be teaching the Digital Civil Society series in the Department of Communication. </p>
+  <p>My research broadly examines technology and politics in comparative perspective. I have ongoing projects in the areas of: 1) new media and social movements across democratic and non-democratic contexts; 2) digital labor and the future of work; 3) technology, design, and social justice. In 2020-2021, I am teaching the Digital Civil Society series in the Department of Communication. </p>
 
 <h2>Ongoing Projects</h2>
 <p><h3>New Media and Social Movements in Comparative Perspective</h3>
